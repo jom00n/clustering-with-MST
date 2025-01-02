@@ -1,5 +1,5 @@
 #include "mst.h"
-
+//olaaa
 struct Mst {
   int *grupos;
   int tam;
